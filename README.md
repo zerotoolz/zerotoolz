@@ -1,4 +1,4 @@
-# My name is Anatoliy. Experienced ICT professional and reseracher.
+# My name is Anatoliy. Experienced ICT professional and researcher.
 
 
 ## I am team player with results-oriented principles in work. Open for networking. Passionate in Blockchain, AI, IT security, auditing and data science.
