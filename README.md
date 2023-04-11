@@ -1,4 +1,4 @@
-# My name is Anatoliy. Experienced ICT professional.
+# My name is Anatoliy. Experienced ICT professional and reseracher.
 
 
 ## I am team player with results-oriented principles in work. Open for networking. Passionate in Blockchain, AI, IT security, auditing and data science.
@@ -16,6 +16,7 @@
  
 ### Languages, tools and achievements:
 
+[<img align="left" alt="ORCID" width="50px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" style="padding-right:10px;" />](https://orcid.org/0000-0002-7588-3077)
 [<img align="left" alt="MCT" width="50px" src="https://images.credly.com/size/110x110/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png" style="padding-right:10px;" />](https://www.credly.com/badges/2a1d5881-236c-4fc2-b071-f6a631a518e2)
 [<img align="left" alt="MS Data" width="50px" src="https://images.credly.com/size/340x340/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" style="padding-right:10px;" />](https://www.credly.com/badges/cc98f949-66d4-40a1-876a-f666395f3108)
 [<img align="left" alt="MS AI" width="50px" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" style="padding-right:10px;" />](https://www.credly.com/badges/a7271e7c-8a87-4ca2-af7f-fdd05fcb2377)
