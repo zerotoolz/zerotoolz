@@ -5,8 +5,9 @@
 
 - Microsoft (OCP) technical support team leader
 - Solidity, Blockchain, Git, ERC-20, Dapp
-- Data science - Microsoft Certified: Azure Data Scientist Associate
-- AI - Microsoft Certified: Azure AI Fundamentals 
+- Microsoft Certified Trainer
+- Microsoft Certified: Azure Data Scientist Associate
+- Microsoft Certified: Azure AI Fundamentals
 
 ### Connect with me:
 
