@@ -3,10 +3,10 @@
 
 ## I am team player with results-oriented principles in work. Open for networking. Passionate in Blockchain, AI, IT security, auditing and data science.
 
-- Microsoft (OCP) technical support team leader
+- Ex. Microsoft (OCP) technical support team leader
 - Solidity, Blockchain, Git, ERC-20, Dapp
-- Microsoft Certified Trainer
-- Microsoft Certified: Azure Data Scientist Associate
+- Microsoft Certified Trainer 2022-2024
+- Microsoft Certified: Azure Data Scientist Associate 2022-2024
 - Microsoft Certified: Azure AI Fundamentals
 
 ### Connect with me:
