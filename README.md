@@ -27,5 +27,5 @@
 [<img align="left" alt="Anaconda" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original.svg)
 [<img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original-wordmark.svg" style="padding-right:10px;" />](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original-wordmark.svg)
 [<img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png)
-[<img align="left" alt="GitHub" width="50px" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />](https://www.codewars.com/users/zerotoolz/badges/large)
+[<img align="left" alt="Code Wars" width="50px" src="h./img/cw.svg" />](https://www.codewars.com/users/zerotoolz/badges/large)
 
